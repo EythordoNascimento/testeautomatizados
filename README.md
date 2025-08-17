@@ -1,4 +1,4 @@
-# 🧪 Repositório de Testes Automatizados
+# 🧪 Repositório de Testes Automatizados.
 
 Este repositório reúne diversos exemplos, estudos e projetos relacionados a **testes automatizados** com foco em aplicações web. O objetivo é centralizar scripts, boas práticas e experimentações com ferramentas como **Selenium**, **JUnit**, **TestNG**, entre outras.
 
