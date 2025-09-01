@@ -4,7 +4,7 @@ Este repositório reúne diversos exemplos, estudos e projetos relacionados a **
 
 ## 📚 Conteúdo
 
-Aqui você encontrará:
+Aqui você encontrará;
 
 - Exemplos de testes com Selenium WebDriver
 - Casos de teste usando JUnit 5
